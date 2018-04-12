@@ -1,0 +1,53 @@
+C:\Users\Laboratorios\Desktop\Lec09\Lec09\bin\Lec09.dll.config
+C:\Users\Laboratorios\Desktop\Lec09\Lec09\bin\Lec09.dll
+C:\Users\Laboratorios\Desktop\Lec09\Lec09\bin\Lec09.pdb
+C:\Users\Laboratorios\Desktop\Lec09\Lec09\bin\Antlr3.Runtime.dll
+C:\Users\Laboratorios\Desktop\Lec09\Lec09\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Laboratorios\Desktop\Lec09\Lec09\bin\Newtonsoft.Json.dll
+C:\Users\Laboratorios\Desktop\Lec09\Lec09\bin\System.Web.Helpers.dll
+C:\Users\Laboratorios\Desktop\Lec09\Lec09\bin\System.Web.Mvc.dll
+C:\Users\Laboratorios\Desktop\Lec09\Lec09\bin\System.Web.Optimization.dll
+C:\Users\Laboratorios\Desktop\Lec09\Lec09\bin\System.Web.Razor.dll
+C:\Users\Laboratorios\Desktop\Lec09\Lec09\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Laboratorios\Desktop\Lec09\Lec09\bin\System.Web.WebPages.dll
+C:\Users\Laboratorios\Desktop\Lec09\Lec09\bin\System.Web.WebPages.Razor.dll
+C:\Users\Laboratorios\Desktop\Lec09\Lec09\bin\WebGrease.dll
+C:\Users\Laboratorios\Desktop\Lec09\Lec09\bin\System.Web.Helpers.xml
+C:\Users\Laboratorios\Desktop\Lec09\Lec09\bin\System.Web.Mvc.xml
+C:\Users\Laboratorios\Desktop\Lec09\Lec09\bin\System.Web.Optimization.xml
+C:\Users\Laboratorios\Desktop\Lec09\Lec09\bin\System.Web.Razor.xml
+C:\Users\Laboratorios\Desktop\Lec09\Lec09\bin\System.Web.WebPages.xml
+C:\Users\Laboratorios\Desktop\Lec09\Lec09\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Laboratorios\Desktop\Lec09\Lec09\bin\System.Web.WebPages.Razor.xml
+C:\Users\Laboratorios\Desktop\Lec09\Lec09\bin\Newtonsoft.Json.xml
+C:\Users\Laboratorios\Desktop\Lec09\Lec09\bin\Antlr3.Runtime.pdb
+C:\Users\Laboratorios\Desktop\Lec09\Lec09\obj\Debug\Lec09.csprojResolveAssemblyReference.cache
+C:\Users\Laboratorios\Desktop\Lec09\Lec09\obj\Debug\Lec09.dll
+C:\Users\Laboratorios\Desktop\Lec09\Lec09\obj\Debug\Lec09.pdb
+D:\Universidad\VII Cuatri\Progra V\Semana 09-20180322\Lec09\Lec09\Lec09\bin\Lec09.dll.config
+D:\Universidad\VII Cuatri\Progra V\Semana 09-20180322\Lec09\Lec09\Lec09\bin\Lec09.dll
+D:\Universidad\VII Cuatri\Progra V\Semana 09-20180322\Lec09\Lec09\Lec09\bin\Lec09.pdb
+D:\Universidad\VII Cuatri\Progra V\Semana 09-20180322\Lec09\Lec09\Lec09\bin\Antlr3.Runtime.dll
+D:\Universidad\VII Cuatri\Progra V\Semana 09-20180322\Lec09\Lec09\Lec09\bin\Microsoft.Web.Infrastructure.dll
+D:\Universidad\VII Cuatri\Progra V\Semana 09-20180322\Lec09\Lec09\Lec09\bin\Newtonsoft.Json.dll
+D:\Universidad\VII Cuatri\Progra V\Semana 09-20180322\Lec09\Lec09\Lec09\bin\System.Web.Helpers.dll
+D:\Universidad\VII Cuatri\Progra V\Semana 09-20180322\Lec09\Lec09\Lec09\bin\System.Web.Mvc.dll
+D:\Universidad\VII Cuatri\Progra V\Semana 09-20180322\Lec09\Lec09\Lec09\bin\System.Web.Optimization.dll
+D:\Universidad\VII Cuatri\Progra V\Semana 09-20180322\Lec09\Lec09\Lec09\bin\System.Web.Razor.dll
+D:\Universidad\VII Cuatri\Progra V\Semana 09-20180322\Lec09\Lec09\Lec09\bin\System.Web.WebPages.Deployment.dll
+D:\Universidad\VII Cuatri\Progra V\Semana 09-20180322\Lec09\Lec09\Lec09\bin\System.Web.WebPages.dll
+D:\Universidad\VII Cuatri\Progra V\Semana 09-20180322\Lec09\Lec09\Lec09\bin\System.Web.WebPages.Razor.dll
+D:\Universidad\VII Cuatri\Progra V\Semana 09-20180322\Lec09\Lec09\Lec09\bin\WebGrease.dll
+D:\Universidad\VII Cuatri\Progra V\Semana 09-20180322\Lec09\Lec09\Lec09\bin\System.Web.Helpers.xml
+D:\Universidad\VII Cuatri\Progra V\Semana 09-20180322\Lec09\Lec09\Lec09\bin\System.Web.Mvc.xml
+D:\Universidad\VII Cuatri\Progra V\Semana 09-20180322\Lec09\Lec09\Lec09\bin\System.Web.Optimization.xml
+D:\Universidad\VII Cuatri\Progra V\Semana 09-20180322\Lec09\Lec09\Lec09\bin\System.Web.Razor.xml
+D:\Universidad\VII Cuatri\Progra V\Semana 09-20180322\Lec09\Lec09\Lec09\bin\System.Web.WebPages.xml
+D:\Universidad\VII Cuatri\Progra V\Semana 09-20180322\Lec09\Lec09\Lec09\bin\System.Web.WebPages.Deployment.xml
+D:\Universidad\VII Cuatri\Progra V\Semana 09-20180322\Lec09\Lec09\Lec09\bin\System.Web.WebPages.Razor.xml
+D:\Universidad\VII Cuatri\Progra V\Semana 09-20180322\Lec09\Lec09\Lec09\bin\Newtonsoft.Json.xml
+D:\Universidad\VII Cuatri\Progra V\Semana 09-20180322\Lec09\Lec09\Lec09\bin\Antlr3.Runtime.pdb
+D:\Universidad\VII Cuatri\Progra V\Semana 09-20180322\Lec09\Lec09\Lec09\obj\Debug\Lec09.csprojResolveAssemblyReference.cache
+D:\Universidad\VII Cuatri\Progra V\Semana 09-20180322\Lec09\Lec09\Lec09\obj\Debug\Lec09.csproj.CoreCompileInputs.cache
+D:\Universidad\VII Cuatri\Progra V\Semana 09-20180322\Lec09\Lec09\Lec09\obj\Debug\Lec09.dll
+D:\Universidad\VII Cuatri\Progra V\Semana 09-20180322\Lec09\Lec09\Lec09\obj\Debug\Lec09.pdb
