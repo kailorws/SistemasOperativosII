@@ -51,3 +51,30 @@ D:\Universidad\VII Cuatri\Progra V\Semana 09-20180322\Lec09\Lec09\Lec09\obj\Debu
 D:\Universidad\VII Cuatri\Progra V\Semana 09-20180322\Lec09\Lec09\Lec09\obj\Debug\Lec09.csproj.CoreCompileInputs.cache
 D:\Universidad\VII Cuatri\Progra V\Semana 09-20180322\Lec09\Lec09\Lec09\obj\Debug\Lec09.dll
 D:\Universidad\VII Cuatri\Progra V\Semana 09-20180322\Lec09\Lec09\Lec09\obj\Debug\Lec09.pdb
+C:\Users\Xtreme Pc\Desktop\SistemasOperativosII\Lec09\bin\Lec09.dll.config
+C:\Users\Xtreme Pc\Desktop\SistemasOperativosII\Lec09\bin\Lec09.dll
+C:\Users\Xtreme Pc\Desktop\SistemasOperativosII\Lec09\bin\Lec09.pdb
+C:\Users\Xtreme Pc\Desktop\SistemasOperativosII\Lec09\bin\Antlr3.Runtime.dll
+C:\Users\Xtreme Pc\Desktop\SistemasOperativosII\Lec09\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Xtreme Pc\Desktop\SistemasOperativosII\Lec09\bin\Newtonsoft.Json.dll
+C:\Users\Xtreme Pc\Desktop\SistemasOperativosII\Lec09\bin\System.Web.Helpers.dll
+C:\Users\Xtreme Pc\Desktop\SistemasOperativosII\Lec09\bin\System.Web.Mvc.dll
+C:\Users\Xtreme Pc\Desktop\SistemasOperativosII\Lec09\bin\System.Web.Optimization.dll
+C:\Users\Xtreme Pc\Desktop\SistemasOperativosII\Lec09\bin\System.Web.Razor.dll
+C:\Users\Xtreme Pc\Desktop\SistemasOperativosII\Lec09\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Xtreme Pc\Desktop\SistemasOperativosII\Lec09\bin\System.Web.WebPages.dll
+C:\Users\Xtreme Pc\Desktop\SistemasOperativosII\Lec09\bin\System.Web.WebPages.Razor.dll
+C:\Users\Xtreme Pc\Desktop\SistemasOperativosII\Lec09\bin\WebGrease.dll
+C:\Users\Xtreme Pc\Desktop\SistemasOperativosII\Lec09\bin\System.Web.Helpers.xml
+C:\Users\Xtreme Pc\Desktop\SistemasOperativosII\Lec09\bin\System.Web.Mvc.xml
+C:\Users\Xtreme Pc\Desktop\SistemasOperativosII\Lec09\bin\System.Web.Optimization.xml
+C:\Users\Xtreme Pc\Desktop\SistemasOperativosII\Lec09\bin\System.Web.Razor.xml
+C:\Users\Xtreme Pc\Desktop\SistemasOperativosII\Lec09\bin\System.Web.WebPages.xml
+C:\Users\Xtreme Pc\Desktop\SistemasOperativosII\Lec09\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Xtreme Pc\Desktop\SistemasOperativosII\Lec09\bin\System.Web.WebPages.Razor.xml
+C:\Users\Xtreme Pc\Desktop\SistemasOperativosII\Lec09\bin\Newtonsoft.Json.xml
+C:\Users\Xtreme Pc\Desktop\SistemasOperativosII\Lec09\bin\Antlr3.Runtime.pdb
+C:\Users\Xtreme Pc\Desktop\SistemasOperativosII\Lec09\obj\Debug\Lec09.csprojResolveAssemblyReference.cache
+C:\Users\Xtreme Pc\Desktop\SistemasOperativosII\Lec09\obj\Debug\Lec09.csproj.CoreCompileInputs.cache
+C:\Users\Xtreme Pc\Desktop\SistemasOperativosII\Lec09\obj\Debug\Lec09.dll
+C:\Users\Xtreme Pc\Desktop\SistemasOperativosII\Lec09\obj\Debug\Lec09.pdb
