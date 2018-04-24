@@ -8,8 +8,8 @@ namespace Lec09.Controllers
 {
     public class HomeController : Controller
     {
-        public static string Nombre = "Rodolfo";
-        public string Apellido = "Conejo";
+        public static string Nombre = "Kailor";
+        public string Apellido = "Murillo";
 
         public ActionResult Index()
         {
